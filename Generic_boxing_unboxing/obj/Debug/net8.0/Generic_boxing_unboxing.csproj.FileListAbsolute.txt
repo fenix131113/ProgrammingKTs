@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\bin\Debug\net8.0\Generic_boxing_unboxing.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\bin\Debug\net8.0\Generic_boxing_unboxing.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\bin\Debug\net8.0\Generic_boxing_unboxing.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\bin\Debug\net8.0\Generic_boxing_unboxing.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\bin\Debug\net8.0\Generic_boxing_unboxing.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\refint\Generic_boxing_unboxing.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\Generic_boxing_unboxing.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\Generic_boxing_unboxing\obj\Debug\net8.0\ref\Generic_boxing_unboxing.dll

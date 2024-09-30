@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_boxing_unboxing", "Generic_boxing_unboxing.csproj", "{03AEB6FA-B9CE-42FF-8A56-81EE301F7552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AEB6FA-B9CE-42FF-8A56-81EE301F7552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AEB6FA-B9CE-42FF-8A56-81EE301F7552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AEB6FA-B9CE-42FF-8A56-81EE301F7552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AEB6FA-B9CE-42FF-8A56-81EE301F7552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
