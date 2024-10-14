@@ -1,0 +1,14 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\bin\Debug\net8.0\KT1.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\bin\Debug\net8.0\KT1.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\bin\Debug\net8.0\KT1.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\bin\Debug\net8.0\KT1.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\bin\Debug\net8.0\KT1.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\refint\KT1.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\KT1.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\KT1\obj\Debug\net8.0\ref\KT1.dll
