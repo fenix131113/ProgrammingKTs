@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\bin\Debug\net8.0\UML_PATTERNS_KT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\bin\Debug\net8.0\UML_PATTERNS_KT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\bin\Debug\net8.0\UML_PATTERNS_KT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\bin\Debug\net8.0\UML_PATTERNS_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\bin\Debug\net8.0\UML_PATTERNS_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\refint\UML_PATTERNS_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\UML_PATTERNS_KT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\UML_PATTERNS_KT\obj\Debug\net8.0\ref\UML_PATTERNS_KT.dll
