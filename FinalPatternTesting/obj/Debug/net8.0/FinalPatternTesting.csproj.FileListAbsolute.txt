@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\bin\Debug\net8.0\FinalPatternTesting.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\bin\Debug\net8.0\FinalPatternTesting.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\bin\Debug\net8.0\FinalPatternTesting.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\bin\Debug\net8.0\FinalPatternTesting.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\bin\Debug\net8.0\FinalPatternTesting.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\refint\FinalPatternTesting.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\FinalPatternTesting.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\FinalPatternTesting\obj\Debug\net8.0\ref\FinalPatternTesting.dll
