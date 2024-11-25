@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\bin\Debug\net8.0\SmartHouseKT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\bin\Debug\net8.0\SmartHouseKT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\bin\Debug\net8.0\SmartHouseKT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\bin\Debug\net8.0\SmartHouseKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\bin\Debug\net8.0\SmartHouseKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\refint\SmartHouseKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\SmartHouseKT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\ProgrammingKTs\SmartHouseKT\obj\Debug\net8.0\ref\SmartHouseKT.dll
