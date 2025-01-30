@@ -75,7 +75,7 @@ public static class GameStage
     {
         Console.WriteLine();
         var critical = Random.Shared.NextSingle() < PlayerData.Hero.CriticalDamageChance;
-        var finallyDamage = critical ? (int)(PlayerData.Hero.Damage * 2) : PlayerData.Hero.Damage;
+        var finallyDamage = critical ? PlayerData.Hero.Damage * 2 : PlayerData.Hero.Damage;
 
         if (critical)
             Console.WriteLine("CRITICAL!");
