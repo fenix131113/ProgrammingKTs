@@ -1,6 +1,6 @@
 ﻿namespace Inheritance;
 
-public class Rectangle(float a, float b, float c, float d) : Tetragon(a, b, c, d, 0)
+public class Rectangle(float a, float b) : Tetragon(a, b, a, b, 0)
 {
     
 }
