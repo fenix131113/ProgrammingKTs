@@ -12,8 +12,8 @@ class Program
         Console.WriteLine(new Rectangle(2, 2 ,2, 2).CountPerimeter());
         Console.WriteLine(new Rhomb(2, 2 ,2, 2, 15).CountArea());
         Console.WriteLine(new Rhomb(2, 2 ,2, 2, 15).CountPerimeter());
-        Console.WriteLine(new Square(2, 2 ,2, 2).CountArea());
-        Console.WriteLine(new Square(2, 2 ,2, 2).CountPerimeter());
+        Console.WriteLine(new Square(2).CountArea());
+        Console.WriteLine(new Square(2).CountPerimeter());
         Console.WriteLine(new ConvexQuadrilateral(2, 2 ,2, 2, 15).CountArea());
         Console.WriteLine(new ConvexQuadrilateral(2, 2 ,2, 2, 15).CountPerimeter());
         
